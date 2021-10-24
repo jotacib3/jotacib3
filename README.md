@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Juan José(JJ)</h2>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" />
 
 ## I'm a Computer Science and Software Engineering 
 
